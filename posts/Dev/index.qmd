@@ -1,0 +1,7 @@
+---
+title: "I did it"
+author: "Dev Gur"
+date: "2025-08-18"
+categories: [news, code, analysis]
+image: "154---1---1.jpg"
+---
